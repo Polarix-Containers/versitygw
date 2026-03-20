@@ -3,7 +3,7 @@
 ![Build, scan & push](https://github.com/Polarix-Containers/versitygw/actions/workflows/build.yml/badge.svg)
 
 ### Features & usage
-- Drop-in replacement for the [official image](https://github.com/versity/versitygw).
+- Built on the [official image](https://github.com/versity/versitygw), to be used as a drop-in replacement.
 - Unprivileged image: you should check your volumes' permissions (eg `/data`), default UID/GID is 200020.
 
 ### Licensing
